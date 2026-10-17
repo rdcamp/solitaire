@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Playfair+Display:wght@600;700&display=swap');
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; background: #e9e1d1; color: #1e2520; font-family: 'DM Mono', ui-monospace, monospace; }
+button { font: inherit; }
